@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer_Segmentation
 
 📊 Prism Customer Segmentation Dashboard
 This Power BI dashboard was designed to explore and visualize user segments for Prism, a fictional membership-based platform. The goal was to develop actionable segmentation to inform targeted marketing and engagement strategies.
