@@ -1,4 +1,4 @@
-USTOMER SEGMENTS -- Recency calculation 
+CUSTOMER SEGMENTS -- Recency calculation 
 WITH recency_data AS ( 
 SELECT 
 user_crm_id, 
