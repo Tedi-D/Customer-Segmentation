@@ -1,4 +1,5 @@
 # Customer_Segmentation
+![image](https://github.com/user-attachments/assets/174ac6b6-15a8-4033-979f-f4b5864c397d)
 
 📊 Prism Customer Segmentation Dashboard 
 
